@@ -1,0 +1,13 @@
+{
+    "name": "rollenes/giving-change",
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "authors": [
+        {
+            "name": "Rafał Wartalski",
+            "email": "rafal.wartalski@gmail.com"
+        }
+    ],
+    "require": {}
+}
