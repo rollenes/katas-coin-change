@@ -9,5 +9,8 @@
             "email": "rafal.wartalski@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"Rollenes\\": "src/"}
+    },
     "require": {}
 }
