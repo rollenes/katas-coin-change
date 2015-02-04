@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Rollenes\\": "src/"}
+        "psr-4": {"Rollenes\\GivingChange\\": "src/"}
     },
     "require": {}
 }
